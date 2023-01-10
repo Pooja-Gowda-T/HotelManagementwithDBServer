@@ -3,7 +3,7 @@ It is a hotel Management System used for reserving the rooms and cancelling it i
 </br></br>
 **Language Used**</br>
 1.WPF Framework</br>
-2.VB>Net</br>
+2.VB.Net</br>
 3.DB Server</br>
 
 **Platform Used**</br>
