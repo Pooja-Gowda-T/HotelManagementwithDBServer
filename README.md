@@ -1,4 +1,4 @@
-# HotelManagementwithDBServer
+# Hotel Management System With DB Server
 It is a hotel Management System used for reserving the rooms and cancelling it if required.
 </br></br>
 **Language Used**</br>
